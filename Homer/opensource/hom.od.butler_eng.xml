@@ -48,13 +48,25 @@
 	</language><language id="xgreek">Transliterated Greek
       </language></langUsage>
     </profileDesc>
+	<revisionDesc>
+		<change>
+			<date>23-Mar-2013</date>
+			<respStmt>
+				<name>Luke Murphey</name>
+			</respStmt>
+			<item>
+				2013-03-23 08:06 GMT luke.murphey
+				Added missing card milestones just after the book division and before the first line milestone in each division
+			</item>
+		</change>
+	</revisionDesc>
   </teiHeader>
 
 <text lang="en">
 <body>
 <div1 type="Book" n="1">
 <head>Scroll 1</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Tell
 me, O Muse, of that many-sided hero who traveled far and wide after
 he had sacked the famous town of <placeName key="tgn,7002329">Troy</placeName>. Many cities did he visit, and
@@ -466,7 +478,7 @@ intended voyage and of the counsel that Athena had given him
 
 <div1 type="Book" n="2">
 <head>Scroll 2</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Now when the child of morning,
 rosy-fingered Dawn, appeared, Telemakhos rose and dressed himself. He
 bound his sandals on to his comely feet, girded his sword about his
@@ -883,7 +895,7 @@ way through the watches of the night from dark till dawn.</p></div1>
 
 <div1 type="Book" n="3">
 <head>Scroll 3</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>But as the sun was rising from the
 fair sea into the firmament of heaven to shed light on mortals and
 immortals, they reached <placeName key="perseus,Pylos">Pylos</placeName> the city of Neleus. Now the people of
@@ -1359,7 +1371,7 @@ darkness was over the land,</p></div1>
 
 <div1 type="Book" n="4">
 <head>Scroll 4</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>They reached the low lying city of
 <placeName key="tgn,7011065">Lacedaemon</placeName>, where they drove straight to the halls of Menelaos. They
 found him in his own house, feasting with his many clansmen in honor
@@ -2196,7 +2208,7 @@ placed themselves in ambush.</p></div1>
 
 <div1 type="Book" n="5">
 <head>Scroll 5</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>And now, as Dawn rose from her
 couch beside Tithonos - harbinger of light alike to mortals and
 immortals - the gods met in council and with them, Zeus the lord of
@@ -2651,7 +2663,7 @@ his sorrows <milestone n="493" unit="line"/>.</p></div1>
 
 <div1 type="Book" n="6">
 <head>Scroll 6</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>So here Odysseus slept, overcome by
 sleep and toil; but Athena went off to the <term lang="xgreek">d&ecirc;mos</term> and
 city of the Phaeacians - a people who used to live in the fair town
@@ -2988,7 +3000,7 @@ endeavors to prevent Odysseus from getting home.
 
 <div1 type="Book" n="7">
 <head>Scroll 7</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Thus, then, did Odysseus wait and
 pray; but the girl drove on to the town. When she reached her
 father's house she drew up at the gateway, and her brothers -
@@ -3330,7 +3342,7 @@ part of the house, with the queen his wife by his side.
 
 <div1 type="Book" n="8">
 <head>Scroll 8</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Now when the child of morning,
 rosy-fingered Dawn, appeared, Alkinoos and Odysseus both rose, and
 Alkinoos led the way to the Phaeacian place of assembly, which was
@@ -3916,7 +3928,7 @@ own brother?" <milestone n="586" unit="line"/></p></div1>
 
 <div1 type="Book" n="9">
 <head>Scroll 9</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>And Odysseus answered, "King
 Alkinoos, it is a good thing to hear a bard with such a divine voice
 as this man has. There is nothing better or more delightful than when
@@ -4478,7 +4490,7 @@ comrades. <milestone n="566" unit="line"/></p></div1>
 
 <div1 type="Book" n="10">
 <head>Scroll 10</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Thence we went on to the Aeolian
 island where lives Aeolus son of Hippotas, dear to the immortal gods.
 It is an island that floats (as it were) upon the sea, iron bound
@@ -5039,7 +5051,7 @@ seen? <milestone n="574" unit="line"/></p></div1>
 
 <div1 type="Book" n="11">
 <head>Scroll 11</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Then, when we had got down to the
 sea shore we drew our ship into the water and got her mast and sails
 into her; we also put the sheep on board and took our places, weeping
@@ -5661,7 +5673,7 @@ row at first, but presently a fair wind sprang up.
 
 <div1 type="Book" n="12">
 <head>Scroll 12</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>"After we were clear of the river
 Okeanos, and had got out into the open sea, we went on till we
 reached the Aeaean island where there is dawn and sunrise as in other
@@ -6115,7 +6127,7 @@ and over again." <milestone n="453" unit="line"/></p></div1>
 
 <div1 type="Book" n="13">
 <head>Scroll 13</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Thus did he speak, and they all
 held their peace throughout the covered room, enthralled by the charm
 of his story, till presently Alkinoos began to speak.</p>
@@ -6550,7 +6562,7 @@ fetch Telemakhos. <milestone n="440" unit="line"/></p></div1>
 
 <div1 type="Book" n="14">
 <head>Scroll 14</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Odysseus now left the haven, and
 took the rough track up through the wooded country and over the crest
 of the mountain till he reached the place where Athena had said that
@@ -7057,7 +7069,7 @@ under an overhanging rock that gave them shelter from the North wind.
 
 <div1 type="Book" n="15">
 <head>Scroll 15</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>But Athena went to the fair city of
 <placeName key="tgn,7011065">Lacedaemon</placeName> to tell Odysseus&rsquo; son that he was to return
 [<term lang="xgreek">nostos</term>] at once. She found him and Peisistratos
@@ -7600,7 +7612,7 @@ master. <milestone n="557" unit="line"/></p></div1>
 
 <div1 type="Book" n="16">
 <head>Scroll 16</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Meanwhile Odysseus and the
 swineherd had lit a fire in the hut and were getting breakfast ready
 at daybreak for they had sent the men out with the pigs. When
@@ -8068,7 +8080,7 @@ and enjoyed the boon of sleep. <milestone n="481" unit="line"/></p></div1>
 
 <div1 type="Book" n="17">
 <head>Scroll 17</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>When the child of morning,
 rosy-fingered Dawn, appeared, Telemakhos bound on his sandals and
 took a strong spear that suited his hands, for he wanted to go into
@@ -8685,7 +8697,7 @@ dancing, for it was now getting on towards evening.
 
 <div1 type="Book" n="18">
 <head>Scroll 18</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Now there came a certain common
 tramp who used to go begging all over the city of <placeName key="tgn,1007519">Ithaca</placeName>, and was
 notorious as an incorrigible glutton and drunkard. This man had no
@@ -9122,7 +9134,7 @@ them to his own abode. <milestone n="428" unit="line"/></p></div1>
 
 <div1 type="Book" n="19">
 <head>Scroll 19</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Odysseus was left in the room,
 pondering on the means whereby with Athena's help he might be
 able to kill the suitors. Presently he said to Telemakhos,
@@ -9692,7 +9704,7 @@ eyelids. <milestone n="604" unit="line"/></p></div1>
 
 <div1 type="Book" n="20">
 <head>Scroll 20</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Odysseus slept in the room upon an
 undressed bullock's hide, on the top of which he threw several
 skins of the sheep the suitors had eaten, and Eurynome threw a cloak
@@ -10085,7 +10097,7 @@ lay before them - for they had brought their doom upon themselves.
 
 <div1 type="Book" n="21">
 <head>Scroll 21</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Athena now put it in
 Penelope's mind to make the suitors try their skill with the bow
 and with the iron axes, in contest among themselves, as a means of
@@ -10525,7 +10537,7 @@ and stood armed beside his father's seat.
 
 <div1 type="Book" n="22">
 <head>Scroll 22</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Then Odysseus tore off his rags,
 and sprang on to the broad pavement with his bow and his quiver full
 of arrows. He shed the arrows on to the ground at his feet and said,
@@ -11012,7 +11024,7 @@ remembered every one of them. <milestone n="501" unit="line"/></p></div1>
 
 <div1 type="Book" n="23">
 <head>Scroll 23</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Eurykleia now went upstairs
 laughing to tell her mistress that her dear husband had come home.
 Her aged knees became young again and her feet were nimble for joy as
@@ -11381,7 +11393,7 @@ the town. <milestone n="372" unit="line"/></p></div1>
 
 <div1 type="Book" n="24">
 <head>Scroll 24</head>
-
+<milestone ed="p" unit="card"/>
 <p><milestone n="1" unit="line"/>Then Hermes of Cyllene summoned the
 ghosts [<term lang="xgreek">psukhai</term>] of the suitors, and in his hand he
 held the fair golden wand with which he seals men's eyes in
